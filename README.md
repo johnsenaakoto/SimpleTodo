@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I kept on getting this error "Error: Error Launching activity" when I tried to emulate my app. To solve this, I had to go into: 
+>AVD Manger >Hit the drop down arrow under "Actions" >Select "Wipe Data"
 
 ## License
 
